@@ -1,5 +1,5 @@
 # React note taking app
 
-/cd reactnotes
-npm i 
-npm start
+/cd reactnotes  
+npm i  
+npm start  
